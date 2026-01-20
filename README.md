@@ -1,5 +1,11 @@
-# 💫 About Me:
-I’m currently learning and working on Python development, Web Development, Data Structures Algorithms, Artificial Intelligence and Machine Learning .
+## 👋 About Me
+
+Hi, I'm **Sahil Panchal**, a passionate software developer with a strong interest in building reliable, scalable, and real-world applications.
+
+I enjoy working on backend systems, full-stack web applications, and problem-solving through clean and efficient code. My experience includes developing secure authentication workflows, database-driven platforms, and user-focused solutions with attention to performance and maintainability.
+
+I am highly motivated to learn new technologies, take on challenging problems, and continuously improve as a developer. I believe in writing code that is not only functional but also structured, readable, and future-ready.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilpanchal2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilpanchal1818@gmail.com) 
